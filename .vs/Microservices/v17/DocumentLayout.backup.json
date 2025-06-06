@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90DF2D85-810C-40CF-917A-1BC6E9ADCE5A}|Services\\ContactAPI\\Contact.API\\Contact.API.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\contactapi\\contact.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90DF2D85-810C-40CF-917A-1BC6E9ADCE5A}|Services\\ContactAPI\\Contact.API\\Contact.API.csproj|solutionrelative:services\\contactapi\\contact.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DF2D85-810C-40CF-917A-1BC6E9ADCE5A}|Services\\ContactAPI\\Contact.API\\Contact.API.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\contactapi\\contact.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DF2D85-810C-40CF-917A-1BC6E9ADCE5A}|Services\\ContactAPI\\Contact.API\\Contact.API.csproj|solutionrelative:services\\contactapi\\contact.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98995118-234C-4975-9B06-892B805FE7F0}|APIGateway\\APIGateway.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98995118-234C-4975-9B06-892B805FE7F0}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\resapi\\reservation.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|solutionrelative:services\\resapi\\reservation.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DF2D85-810C-40CF-917A-1BC6E9ADCE5A}|Services\\ContactAPI\\Contact.API\\Contact.API.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\contactapi\\contact.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DF2D85-810C-40CF-917A-1BC6E9ADCE5A}|Services\\ContactAPI\\Contact.API\\Contact.API.csproj|solutionrelative:services\\contactapi\\contact.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\resapi\\reservation.api\\reservation.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|solutionrelative:services\\resapi\\reservation.api\\reservation.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DF2D85-810C-40CF-917A-1BC6E9ADCE5A}|Services\\ContactAPI\\Contact.API\\Contact.API.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\contactapi\\contact.api\\contact.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{90DF2D85-810C-40CF-917A-1BC6E9ADCE5A}|Services\\ContactAPI\\Contact.API\\Contact.API.csproj|solutionrelative:services\\contactapi\\contact.api\\contact.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\resapi\\reservation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|solutionrelative:services\\resapi\\reservation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\resapi\\reservation.api\\controllers\\rescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|solutionrelative:services\\resapi\\reservation.api\\controllers\\rescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98995118-234C-4975-9B06-892B805FE7F0}|APIGateway\\APIGateway.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98995118-234C-4975-9B06-892B805FE7F0}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\resapi\\reservation.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|solutionrelative:services\\resapi\\reservation.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98995118-234C-4975-9B06-892B805FE7F0}|APIGateway\\APIGateway.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98995118-234C-4975-9B06-892B805FE7F0}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98995118-234C-4975-9B06-892B805FE7F0}|APIGateway\\APIGateway.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98995118-234C-4975-9B06-892B805FE7F0}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98995118-234C-4975-9B06-892B805FE7F0}|APIGateway\\APIGateway.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{98995118-234C-4975-9B06-892B805FE7F0}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\resapi\\reservation.api\\reservation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F74DDB5-D79B-4C42-AD75-D08EC3851161}|Services\\ResAPI\\Reservation.API\\Reservation.API.csproj|solutionrelative:services\\resapi\\reservation.api\\reservation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E2FDDB-D697-4B65-8333-209BED82E362}|Services\\ResAPI\\Reservation.API.Services\\Reservation.API.Services.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\resapi\\reservation.api.services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E2FDDB-D697-4B65-8333-209BED82E362}|Services\\ResAPI\\Reservation.API.Services\\Reservation.API.Services.csproj|solutionrelative:services\\resapi\\reservation.api.services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E2FDDB-D697-4B65-8333-209BED82E362}|Services\\ResAPI\\Reservation.API.Services\\Reservation.API.Services.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\resapi\\reservation.api.services\\reservation.api.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88E2FDDB-D697-4B65-8333-209BED82E362}|Services\\ResAPI\\Reservation.API.Services\\Reservation.API.Services.csproj|solutionrelative:services\\resapi\\reservation.api.services\\reservation.api.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E44B88-4F5D-484E-AAD8-BCF5500C22EB}|Services\\ResAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\resapi\\reservation.api.infrastructure\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E44B88-4F5D-484E-AAD8-BCF5500C22EB}|Services\\ResAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj|solutionrelative:services\\resapi\\reservation.api.infrastructure\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AC9AB9-CDAA-449A-BB59-1B42C97FCE6C}|Services\\ResAPI\\Reservation.API.Models\\Reservation.API.Models.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\resapi\\reservation.api.models\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AC9AB9-CDAA-449A-BB59-1B42C97FCE6C}|Services\\ResAPI\\Reservation.API.Models\\Reservation.API.Models.csproj|solutionrelative:services\\resapi\\reservation.api.models\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E44B88-4F5D-484E-AAD8-BCF5500C22EB}|Services\\ResAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\resapi\\reservation.api.infrastructure\\reservation.api.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2E44B88-4F5D-484E-AAD8-BCF5500C22EB}|Services\\ResAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj|solutionrelative:services\\resapi\\reservation.api.infrastructure\\reservation.api.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6AA9F-30A7-4BC8-A680-738E4F54DE47}|Services\\ContactAPI\\Contact.API.Services\\Contact.API.Services.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\contactapi\\contact.api.services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6AA9F-30A7-4BC8-A680-738E4F54DE47}|Services\\ContactAPI\\Contact.API.Services\\Contact.API.Services.csproj|solutionrelative:services\\contactapi\\contact.api.services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D134FEC-7011-4B75-B6BF-F5DC13DD0E9E}|Services\\ContactAPI\\Contact.API.Infrastructure\\Contact.API.Infrastructure.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\contactapi\\contact.api.infrastructure\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D134FEC-7011-4B75-B6BF-F5DC13DD0E9E}|Services\\ContactAPI\\Contact.API.Infrastructure\\Contact.API.Infrastructure.csproj|solutionrelative:services\\contactapi\\contact.api.infrastructure\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EC7D90-7985-4968-B66D-14EAE90FB467}|Services\\ContactAPI\\Contact.API.Models\\Contact.API.Models.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\contactapi\\contact.api.models\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EC7D90-7985-4968-B66D-14EAE90FB467}|Services\\ContactAPI\\Contact.API.Models\\Contact.API.Models.csproj|solutionrelative:services\\contactapi\\contact.api.models\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6AA9F-30A7-4BC8-A680-738E4F54DE47}|Services\\ContactAPI\\Contact.API.Services\\Contact.API.Services.csproj|c:\\users\\win11\\onedrive\\belgeler\\microservice\\microservices\\services\\contactapi\\contact.api.services\\contact.api.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5F6AA9F-30A7-4BC8-A680-738E4F54DE47}|Services\\ContactAPI\\Contact.API.Services\\Contact.API.Services.csproj|solutionrelative:services\\contactapi\\contact.api.services\\contact.api.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Reservation.API.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Services\\ResAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj",
+              "RelativeToolTip": "Services\\ResAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T16:54:14.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\ResAPI\\Reservation.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\ResAPI\\Reservation.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T15:49:16.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\ContactAPI\\Contact.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\ContactAPI\\Contact.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T15:59:02.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.API.http",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API\\Contact.API.http",
+              "RelativeDocumentMoniker": "Services\\ContactAPI\\Contact.API\\Contact.API.http",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API\\Contact.API.http",
+              "RelativeToolTip": "Services\\ContactAPI\\Contact.API\\Contact.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-05T15:59:53.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\ContactAPI\\Contact.API\\Program.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API\\Program.cs",
+              "RelativeToolTip": "Services\\ContactAPI\\Contact.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:58:13.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\ResAPI\\Reservation.API\\Program.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\Program.cs",
+              "RelativeToolTip": "Services\\ResAPI\\Reservation.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:01:35.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Services\\ContactAPI\\Contact.API\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Services\\ContactAPI\\Contact.API\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:03:04.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResController.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\Controllers\\ResController.cs",
+              "RelativeDocumentMoniker": "Services\\ResAPI\\Reservation.API\\Controllers\\ResController.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\Controllers\\ResController.cs",
+              "RelativeToolTip": "Services\\ResAPI\\Reservation.API\\Controllers\\ResController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:03:27.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reservation.API.http",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\Reservation.API.http",
+              "RelativeDocumentMoniker": "Services\\ResAPI\\Reservation.API\\Reservation.API.http",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\Reservation.API.http",
+              "RelativeToolTip": "Services\\ResAPI\\Reservation.API\\Reservation.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-05T17:47:39.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\APIGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\APIGateway\\ocelot.json",
+              "RelativeToolTip": "APIGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T17:15:15.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API.Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "Services\\ResAPI\\Reservation.API.Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API.Services\\ReservationService.cs",
+              "RelativeToolTip": "Services\\ResAPI\\Reservation.API.Services\\ReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:58:08.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reservation.API.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API.Services\\Reservation.API.Services.csproj",
+              "RelativeDocumentMoniker": "Services\\ResAPI\\Reservation.API.Services\\Reservation.API.Services.csproj",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API.Services\\Reservation.API.Services.csproj",
+              "RelativeToolTip": "Services\\ResAPI\\Reservation.API.Services\\Reservation.API.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T16:57:55.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:27:18.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "APIGateway.http",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\APIGateway\\APIGateway.http",
+              "RelativeDocumentMoniker": "APIGateway\\APIGateway.http",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\APIGateway\\APIGateway.http",
+              "RelativeToolTip": "APIGateway\\APIGateway.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-05T17:44:12.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T18:07:33.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\APIGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "APIGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\APIGateway\\appsettings.json",
+              "RelativeToolTip": "APIGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T17:47:11.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\ResAPI\\Reservation.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\appsettings.json",
+              "RelativeToolTip": "Services\\ResAPI\\Reservation.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T17:47:47.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API.Infrastructure\\IReservationService.cs",
+              "RelativeDocumentMoniker": "Services\\ResAPI\\Reservation.API.Infrastructure\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API.Infrastructure\\IReservationService.cs",
+              "RelativeToolTip": "Services\\ResAPI\\Reservation.API.Infrastructure\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:54:29.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API.Models\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "Services\\ResAPI\\Reservation.API.Models\\ReservationDTO.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API.Models\\ReservationDTO.cs",
+              "RelativeToolTip": "Services\\ResAPI\\Reservation.API.Models\\ReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:52:24.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reservation.API.csproj",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\Reservation.API.csproj",
+              "RelativeDocumentMoniker": "Services\\ResAPI\\Reservation.API\\Reservation.API.csproj",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API\\Reservation.API.csproj",
+              "RelativeToolTip": "Services\\ResAPI\\Reservation.API\\Reservation.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T17:01:05.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Contact.API.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API.Services\\Contact.API.Services.csproj",
+              "RelativeDocumentMoniker": "Services\\ContactAPI\\Contact.API.Services\\Contact.API.Services.csproj",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API.Services\\Contact.API.Services.csproj",
+              "RelativeToolTip": "Services\\ContactAPI\\Contact.API.Services\\Contact.API.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T16:14:15.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API.Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "Services\\ContactAPI\\Contact.API.Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API.Services\\ContactService.cs",
+              "RelativeToolTip": "Services\\ContactAPI\\Contact.API.Services\\ContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:14:28.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContactDTO.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API.Models\\ContactDTO.cs",
+              "RelativeDocumentMoniker": "Services\\ContactAPI\\Contact.API.Models\\ContactDTO.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API.Models\\ContactDTO.cs",
+              "RelativeToolTip": "Services\\ContactAPI\\Contact.API.Models\\ContactDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:10:05.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API.Infrastructure\\IContactService.cs",
+              "RelativeDocumentMoniker": "Services\\ContactAPI\\Contact.API.Infrastructure\\IContactService.cs",
+              "ToolTip": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API.Infrastructure\\IContactService.cs",
+              "RelativeToolTip": "Services\\ContactAPI\\Contact.API.Infrastructure\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:09:24.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

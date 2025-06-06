@@ -1,0 +1,11 @@
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net8.0\Reservation.API.Models.deps.json
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net8.0\Reservation.API.Models.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net8.0\Reservation.API.Models.pdb
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net8.0\Reservation.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net8.0\Reservation.API.Models.AssemblyInfoInputs.cache
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net8.0\Reservation.API.Models.AssemblyInfo.cs
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net8.0\Reservation.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net8.0\Reservation.API.Models.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net8.0\refint\Reservation.API.Models.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net8.0\Reservation.API.Models.pdb
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net8.0\ref\Reservation.API.Models.dll

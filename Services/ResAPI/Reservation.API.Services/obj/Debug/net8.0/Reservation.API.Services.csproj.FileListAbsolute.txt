@@ -1,0 +1,17 @@
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\bin\Debug\net8.0\Reservation.API.Services.deps.json
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\bin\Debug\net8.0\Reservation.API.Services.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\bin\Debug\net8.0\Reservation.API.Services.pdb
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\bin\Debug\net8.0\Reservation.API.Infrastructure.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\bin\Debug\net8.0\Reservation.API.Models.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\bin\Debug\net8.0\Reservation.API.Infrastructure.pdb
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\bin\Debug\net8.0\Reservation.API.Models.pdb
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\obj\Debug\net8.0\Reservation.API.Services.csproj.AssemblyReference.cache
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\obj\Debug\net8.0\Reservation.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\obj\Debug\net8.0\Reservation.API.Services.AssemblyInfoInputs.cache
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\obj\Debug\net8.0\Reservation.API.Services.AssemblyInfo.cs
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\obj\Debug\net8.0\Reservation.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\obj\Debug\net8.0\Reservat.0455FF26.Up2Date
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\obj\Debug\net8.0\Reservation.API.Services.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\obj\Debug\net8.0\refint\Reservation.API.Services.dll
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\obj\Debug\net8.0\Reservation.API.Services.pdb
+C:\Users\win11\OneDrive\Belgeler\MicroService\Microservices\Services\ResAPI\Reservation.API.Services\obj\Debug\net8.0\ref\Reservation.API.Services.dll
