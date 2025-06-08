@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTElNZXvfQA=",
+  "dgSpecHash": "LFOFQnPLiH4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ContactAPI\\Contact.API.Infrastructure\\Contact.API.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\ApiGateway-Ocelot\\Services\\ContactAPI\\Contact.API.Infrastructure\\Contact.API.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

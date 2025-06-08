@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q4aUUrxMkmk=",
+  "dgSpecHash": "JCz5sIReUOA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\MicroService\\Microservices\\Services\\ResAPI\\Reservation.API.Services\\Reservation.API.Services.csproj",
+  "projectFilePath": "C:\\Users\\win11\\OneDrive\\Belgeler\\GitHub\\ApiGateway-Ocelot\\Services\\ResAPI\\Reservation.API.Services\\Reservation.API.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
