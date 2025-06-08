@@ -11,7 +11,7 @@ services:
       - net_api
       - int_net_api
     ports:
-      - 8081:80
+      - 80:8080
 
   s_contact_api:
     container_name: c_contact_api
