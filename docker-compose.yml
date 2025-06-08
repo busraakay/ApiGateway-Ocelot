@@ -18,7 +18,7 @@ services:
     image: busraakay/contactapi
     build:
       context: .
-      dockerfile: Services/Contact.API/Contact.API/Dockerfile
+      dockerfile: Services/ContactAPI/Contact.API/Dockerfile
     networks:
       - int_net_api
     ports:
@@ -29,7 +29,7 @@ services:
     image: busraakay/resapi
     build:
       context: .
-      dockerfile: Services/Reservation.API/Reservation.API/Dockerfile
+      dockerfile: Services/ResAPI/Reservation.API/Dockerfile
     networks:
       - int_net_api
     ports:
