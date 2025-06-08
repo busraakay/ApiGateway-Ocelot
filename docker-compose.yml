@@ -41,5 +41,5 @@ networks:
     driver: bridge
 
   int_net_api:
-    driver: overlay
+    driver: bridge
     internal: true
